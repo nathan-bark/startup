@@ -45,7 +45,9 @@ hr {
   border-width: 4px;
 }
 
-
+section {
+  height: 104px;
+}
 
 .btn-xl {
   padding: 1rem 2rem;
